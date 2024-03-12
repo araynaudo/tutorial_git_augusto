@@ -1,2 +1,3 @@
-# tutorial_git_augusto
-Ejemplo primer clase de PAI
+# Tutorial sobre git
+
+Este repo es para la primer clase de PAI
